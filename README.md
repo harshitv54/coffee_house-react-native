@@ -1,6 +1,42 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# Coffee House Android App
+
+## Login/Register Screen
+
+<img src="https://github.com/harshitv54/coffee_house-react-native/assets/67424406/eb834adb-ea7b-464a-83cd-662bdb81d576" width="360" height="640">
+
+## Home Screen
+
+<img src="https://github.com/harshitv54/coffee_house-react-native/assets/67424406/bdae14cf-1c7d-440b-bdba-123d4ab769c1" width="360" height="640">
+
+## Detail Screen
+
+<img src="https://github.com/harshitv54/coffee_house-react-native/assets/67424406/ff1ce429-e0eb-4d81-8f1c-a1a164c71a88" width="360" height="640">
+
+<img src="https://github.com/harshitv54/coffee_house-react-native/assets/67424406/edb2b286-7fdf-48c9-a959-5efa868a5126" width="360" height="640">
+
+## Cart Screen
+
+<img src="https://github.com/harshitv54/coffee_house-react-native/assets/67424406/5c05a5a2-a619-4439-8fac-726e196f1606" width="360" height="640">
+
+<img src="https://github.com/harshitv54/coffee_house-react-native/assets/67424406/16ad04b3-888e-4734-9be0-617d7e0e1bf5" width="360" height="640">
+
+## Favourite Screen
+
+<img src="https://github.com/harshitv54/coffee_house-react-native/assets/67424406/fa27dd43-500c-407f-9512-82ef9fa61748" width="360" height="640">
+
+## User Screen
+
+<img src="https://github.com/harshitv54/coffee_house-react-native/assets/67424406/4d21c52f-177c-420f-8835-47e443843995" width="360" height="640">
+
+## Payment Method/Order History Screen
+
+<img src="https://github.com/harshitv54/coffee_house-react-native/assets/67424406/084858ae-854c-4edb-89fd-f125025f8cfc" width="360" height="640">
+
+<img src="https://github.com/harshitv54/coffee_house-react-native/assets/67424406/e27d2ae8-9aec-46a5-aef7-e4923b33c94f" width="360" height="640">
 
 # Getting Started
+
+This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
